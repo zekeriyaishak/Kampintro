@@ -20,5 +20,6 @@ namespace Metotlar
         {
             Console.WriteLine("Tebrikler.Sepete eklendi! : " + urunAdi);
         }
+        
     }
 }
